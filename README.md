@@ -2,7 +2,7 @@
 
 A workshop to evaluate and synthesize methods for species identification of redfish (*Sebastes mentella* and *S. norvegicus*) in the Northeast Atlantic Ocean (Greenland, Iceland and Faroese waters)
 
-![Redfish.](redfish.jpg)
+![Redfish.](redfish_small.jpg)
 
 ## Date
 
