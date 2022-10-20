@@ -10,10 +10,26 @@ A workshop to evaluate and synthesize methods for species identification of redf
 
 ## Venue
 
-Greenland Institute of Natural Resources (GINR), Kivioq 2, 3900 Nuuk, Greenland
+Greenland Institute of Natural Resources (GINR), Kivioq 2, 3900 Nuuk, Greenland.
+
+We will meet in three main localities:
+
+- the meeting room "Isbjorn" (TBC) for discussions and presentations
+- the fisheries laboratory (TBC) for practical work
+- the cafeteria (TBC) for coffee/lunch breaks
 
 ## Introduction and aim
 
+The overall main goals of the workshop are to:
+
+- assess whether redfish specimens are identified similarly to species level between the different countries
+- assess how high error rates in redfish specimen identification are
+- agree on reliable characters to be used for redfish specimen identification
+- agree on possible procedures to account for potential errors in the future
+
+## Information and material
+
+All information about this workshop will be available on this [website](https://github.com/notothen/redfish-ws23).
 
 ## Program
 
@@ -66,11 +82,6 @@ Greenland Institute of Natural Resources (GINR), Kivioq 2, 3900 Nuuk, Greenland
 **10:15** Discussion about perspectives for redfish identification
 
 **12:00** Lunch & end of workshop
-
-
-
-
-
 
 ## Participants
 
