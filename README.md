@@ -1,6 +1,6 @@
 # Redfish Workshop 2023
 
-A workshop to evaluate and synthesize methods for species identification of redfish (*Sebastes mentella* and *S. norvegicus*) in the Northeast Atlantic Ocean (Greenland, Iceland and Faroese waters)
+A workshop to evaluate and synthesize methods for species identification of redfish (*Sebastes mentella* and *S. norvegicus*) in the Northeast Atlantic Ocean (Greenland and Iceland waters)
 
 ![Redfish.](redfish_small.jpg)
 
@@ -14,7 +14,7 @@ Greenland Institute of Natural Resources (GINR), Kivioq 2, 3900 Nuuk, Greenland.
 
 We will meet in three main localities:
 
-- the meeting room "Isbjorn" (TBC) for discussions and presentations
+- the meeting room "Bjørnerum" (TBC) for discussions and presentations
 - the fisheries laboratory (TBC) for practical work
 - the cafeteria (TBC) for coffee/lunch breaks
 
@@ -30,6 +30,7 @@ The overall main goals of the workshop are to:
 ## Information and material
 
 All information about this workshop will be available on this [website](https://github.com/notothen/redfish-ws23).
+We can compile here also presentations, data, links to relevant publication, etc.
 
 ## Program
 
@@ -38,7 +39,7 @@ All information about this workshop will be available on this [website](https://
 **10:00** Welcome and introduction
 
 - description of workshop background and goals
-- introduction round of all participants
+- introduction round of all participants (short presentations?)
 - practicalities: venue, working rooms, lunch, coffee, accommodation
 
 **12:00** Lunch
@@ -46,10 +47,14 @@ All information about this workshop will be available on this [website](https://
 **13:00** Practical session I
 
 - identification of freshly thawed redfish specimens
+- everyone should identify as many fish as possible using the same procedure and criteria as on a survey
+- in addition, we may record pictures and possibly some morphometric measurements of the fish
 
 **15:00** Coffee
 
 **15:15** Practical session I continued
+
+- continue with speciment identification
 
 **16:00** End of practical session
 
@@ -77,9 +82,16 @@ All information about this workshop will be available on this [website](https://
 
 **8:00** Presentation of results
 
+- comparison of obtained IDs with genetic IDs
+- comparison of these results depending on fish size, true species ID etc.
+
 **10:00** Coffee
 
 **10:15** Discussion about perspectives for redfish identification
+
+- integration of survey data from Greenland, Iceland, Germany possible?
+- "best practices" for specimen identification?
+- next steps?
 
 **12:00** Lunch & end of workshop
 
