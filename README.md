@@ -29,8 +29,9 @@ The overall main goals of the workshop are to:
 
 ## Information and material
 
-All information about this workshop will be available on this [website](https://github.com/notothen/redfish-ws23).
-We can compile here also presentations, data, links to relevant publication, etc.
+All information about this workshop will be available on [this website](https://github.com/notothen/redfish-ws23).
+
+We can also compile presentations, data, links to relevant publication, etc. here.
 
 ## Program
 
@@ -54,7 +55,7 @@ We can compile here also presentations, data, links to relevant publication, etc
 
 **15:15** Practical session I continued
 
-- continue with speciment identification
+- continue with specimen identification
 
 **16:00** End of practical session
 
@@ -64,13 +65,13 @@ We can compile here also presentations, data, links to relevant publication, etc
 
 **8:00** Practical session II
 
-- continuing with specimen identification
+- continue with specimen identification
 
 **10:00** Coffee
 
 **10:15** Practical session II continued
 
-- finishing of specimen identification
+- finish specimen identification
 - questionnaire (?) about characters used for specimen identification
 
 **12:00** Lunch
@@ -83,7 +84,7 @@ We can compile here also presentations, data, links to relevant publication, etc
 **8:00** Presentation of results
 
 - comparison of obtained IDs with genetic IDs
-- comparison of these results depending on fish size, true species ID etc.
+- comparison of these results depending on institute, fish size, true species ID etc.
 
 **10:00** Coffee
 
