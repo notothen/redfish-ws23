@@ -31,70 +31,73 @@ The overall main goals of the workshop are to:
 
 All information about this workshop will be available on [this website](https://github.com/notothen/redfish-ws23).
 
-We can also compile presentations, data, links to relevant publication, etc. here.
+We can also compile presentations, data, links to relevant publications, etc. here.
 
 ## Program
 
 ### Monday 13th March 2023
 
-**10:00** Welcome and introduction
+Arrival in Nuuk. Depending on the arrival timing we may start with some introductions & discussions.
+
+### Tuesday 14th March 2023
+
+**08:00** Welcome and introduction
 
 - description of workshop background and goals
 - introduction round of all participants (short presentations?)
 - practicalities: venue, working rooms, lunch, coffee, accommodation
+- preparations for practical session
 
-**12:00** Lunch
+**10:00** Coffee
 
-**13:00** Practical session I
+**10:15** Practical session I
 
 - identification of freshly thawed redfish specimens
 - everyone should identify as many fish as possible using the same procedure and criteria as on a survey
 - in addition, we may record pictures and possibly some morphometric measurements of the fish
 
-**15:00** Coffee
+**12:00** Lunch
 
-**15:15** Practical session I continued
+**13:00** Practical session II
 
 - continue with specimen identification
+- questionnaire (?) about characters used for specimen identification
 
 **16:00** End of practical session
 
-- room for collaboration discussions, side meetings, evening program, ...
+- time for Henrik, Daniel & Søren to process results
+- also time for collaboration discussions, side meetings, evening program, ...
 
-### Tuesday 14th March 2024
+### Wednesday 15th March 2024
 
-**8:00** Practical session II
+**8:00** Free time
 
-- continue with specimen identification
+- additional time for Henrik, Daniel & Søren to process results
+- possible time for further collaboration discussions, side meetings, ...
 
 **10:00** Coffee
 
-**10:15** Practical session II continued
-
-- finish specimen identification
-- questionnaire (?) about characters used for specimen identification
-
-**12:00** Lunch
-
-- free afternoon (time for Henrik, Daniel & Søren to process results)
-- room for collaboration discussions, side meetings, evening program, ...
-
-### Wednesday 15th March
-
-**8:00** Presentation of results
+**10:15** Presentation of results
 
 - comparison of obtained IDs with genetic IDs
 - comparison of these results depending on institute, fish size, true species ID etc.
+- additional staff of GINR-FiSk invited
 
-**10:00** Coffee
+**12:00** Lunch
 
-**10:15** Discussion about perspectives for redfish identification
+**13:00** Discussion about perspectives for redfish identification
 
 - integration of survey data from Greenland, Iceland, Germany possible?
 - "best practices" for specimen identification?
 - next steps?
 
-**12:00** Lunch & end of workshop
+**16:00-18:00** End of workshop
+
+- joint dinner?
+
+### Thursday 16th March
+
+Departure from Nuuk.
 
 ## Participants
 
@@ -110,4 +113,4 @@ We can also compile presentations, data, links to relevant publication, etc. her
 - Lars Heilmann (?), Greenland Institute of Natural Resources, Greenland
 - Louise Mølgaard (?), Greenland Institute of Natural Resources, Greenland
 - Signe Jeremiassen (?), Greenland Institute of Natural Resources, Greenland
-- Henrik Christiansen (?), Greenland Institute of Natural Resources, Greenland
+- Henrik Christiansen, Greenland Institute of Natural Resources, Greenland
