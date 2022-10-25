@@ -101,8 +101,8 @@ Departure from Nuuk.
 
 ## Participants
 
-- Karl-Michael Werner (?), Thünen Institute of Sea Fisheries, Germany
 - Annika Elsheimer, Thünen Institute of Sea Fisheries, Germany
+- Christian Schulte, Thünen Institute of Sea Fisheries, Germany
 - Jörg Appel (?), Thünen Institute of Sea Fisheries, Germany
 - Kristján Kristinsson, Marine and Freshwater Research Institute, Iceland
 - Daniel Estévez-Barcia, Greenland Institute of Natural Resources, Greenland
@@ -114,3 +114,7 @@ Departure from Nuuk.
 - Louise Mølgaard (?), Greenland Institute of Natural Resources, Greenland
 - Signe Jeremiassen (?), Greenland Institute of Natural Resources, Greenland
 - Henrik Christiansen, Greenland Institute of Natural Resources, Greenland
+
+and possibly joining remotely:
+- Karl-Michael Werner (?), Thünen Institute of Sea Fisheries, Germany
+
