@@ -15,7 +15,7 @@ Greenland Institute of Natural Resources (GINR), Kivioq 2, 3900 Nuuk, Greenland.
 We will meet in three main localities:
 
 - the meeting room "Bjørnerum" (TBC) for discussions and presentations
-- the fisheries laboratory (TBC) for practical work
+- the fisheries laboratory/wet lab (TBC) for practical work
 - the cafeteria (TBC) for coffee/lunch breaks
 
 ## Introduction and aim
@@ -29,7 +29,7 @@ The overall main goals of the workshop are to:
 
 ## Information and material
 
-All information about this workshop will be available on [this website](https://github.com/notothen/redfish-ws23).
+All information about this workshop will be available here on [this website](https://github.com/notothen/redfish-ws23).
 
 We can also compile presentations, data, links to relevant publications, etc. here.
 
@@ -37,7 +37,7 @@ We can also compile presentations, data, links to relevant publications, etc. he
 
 ### Monday 13th March 2023
 
-Arrival in Nuuk. Depending on the arrival timing we may start with some introductions & discussions.
+Arrival in Nuuk (participants from DEU - participants from ISL arrive earlier). Depending on the arrival timing we may start with some introductions & discussions.
 
 ### Tuesday 14th March 2023
 
@@ -97,7 +97,9 @@ Arrival in Nuuk. Depending on the arrival timing we may start with some introduc
 
 ### Thursday 16th March
 
-Departure from Nuuk.
+Departure from Nuuk (participants from ISL)
+/
+Free day or extra time for discussion (participants from DEU)
 
 ## Participants
 
@@ -118,4 +120,4 @@ Departure from Nuuk.
 
 and possibly joining remotely:
 - Karl-Michael Werner (?), Thünen Institute of Sea Fisheries, Germany
-- Julius Nielsen, Greenland Institute of Natural Resources, Greenland
+- Julius Nielsen (?), Greenland Institute of Natural Resources, Greenland
