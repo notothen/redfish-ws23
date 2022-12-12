@@ -14,8 +14,8 @@ Greenland Institute of Natural Resources (GINR), Kivioq 2, 3900 Nuuk, Greenland.
 
 We will meet in three main localities:
 
-- the meeting room "Bjørnerum" (TBC) for discussions and presentations
-- the fisheries laboratory/wet lab (TBC) for practical work
+- the meeting room "Bjørnerum" or a meeting room in Pikialaarfik (TBC) for discussions and presentations
+- the fisheries laboratory/wet lab in Pikialaarfik (TBC) for practical work
 - the cafeteria (TBC) for coffee/lunch breaks
 
 ## Introduction and aim
@@ -33,11 +33,15 @@ All information about this workshop will be available here on [this website](htt
 
 We can also compile presentations, data, links to relevant publications, etc. here.
 
+We will work with about 250 frozen redfish specimens from the 2022 survey season. These specimens will be identified to species level genetically. However, we will not reveal the "true" genetic species identity (and neither where the fish are from, which depth they where caught at etc.) until the end of the workshop. The main idea is that all workshop participants identify all 250 fish and we can then compare how well this works. In addition, we may record some photographic, morphological and/or morphometric measurements in order to gain some data about which morphological characters are most useful for quick identification.
+
 ## Program
+
+The program is still subject to change!
 
 ### Monday 13th March 2023
 
-Arrival in Nuuk (participants from DEU - participants from ISL arrive earlier). Depending on the arrival timing we may start with some introductions & discussions.
+Arrival in Nuuk (participants from DEU scheduled to arrive around noon - participants from ISL arrive earlier). Depending on the arrival timing we may start with some introductions & discussions in the afternoon.
 
 ### Tuesday 14th March 2023
 
@@ -48,13 +52,12 @@ Arrival in Nuuk (participants from DEU - participants from ISL arrive earlier). 
 - practicalities: venue, working rooms, lunch, coffee, accommodation
 - preparations for practical session
 
-**10:00** Coffee
-
-**10:15** Practical session I
+**09:00** Practical session I
 
 - identification of freshly thawed redfish specimens
 - everyone should identify as many fish as possible using the same procedure and criteria as on a survey
 - in addition, we may record pictures and possibly some morphometric measurements of the fish
+- coffee break around 10
 
 **12:00** Lunch
 
@@ -81,7 +84,7 @@ Arrival in Nuuk (participants from DEU - participants from ISL arrive earlier). 
 
 - comparison of obtained IDs with genetic IDs
 - comparison of these results depending on institute, fish size, true species ID etc.
-- additional staff of GINR-FiSk invited
+- this session could be interesting for additional staff of GINR-FiSk (e.g. people who do not participate in the practical session but are still curious about the results)
 
 **12:00** Lunch
 
@@ -90,6 +93,7 @@ Arrival in Nuuk (participants from DEU - participants from ISL arrive earlier). 
 - integration of survey data from Greenland, Iceland, Germany possible?
 - "best practices" for specimen identification?
 - next steps?
+- this session is mainly for attendees from DEU & ISL and staff from GRL working with redfish assessment
 
 **16:00-18:00** End of workshop
 
@@ -110,13 +114,14 @@ Free day or extra time for discussion (participants from DEU)
 - Sif Gudmundsdottir, Marine and Freshwater Research Institute, Iceland
 - Daniel Estévez-Barcia, Greenland Institute of Natural Resources, Greenland
 - Søren Post, Greenland Institute of Natural Resources, Greenland
+- Henrik Christiansen, Greenland Institute of Natural Resources, Greenland
 - Sofie Ruth Jeremiassen (?), Greenland Institute of Natural Resources, Greenland
 - Christina Joensen (?), Greenland Institute of Natural Resources, Greenland
 - Jørgen Sethsen (?), Greenland Institute of Natural Resources, Greenland
 - Lars Heilmann (?), Greenland Institute of Natural Resources, Greenland
 - Louise Mølgaard (?), Greenland Institute of Natural Resources, Greenland
 - Signe Jeremiassen (?), Greenland Institute of Natural Resources, Greenland
-- Henrik Christiansen, Greenland Institute of Natural Resources, Greenland
+
 
 and possibly joining remotely:
 - Karl-Michael Werner (?), Thünen Institute of Sea Fisheries, Germany
