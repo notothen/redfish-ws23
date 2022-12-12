@@ -71,7 +71,7 @@ Arrival in Nuuk (participants from DEU scheduled to arrive around noon - partici
 - time for Henrik, Daniel & Søren to process results
 - also time for collaboration discussions, side meetings, evening program, ...
 
-### Wednesday 15th March 2024
+### Wednesday 15th March 2023
 
 **8:00** Free time
 
