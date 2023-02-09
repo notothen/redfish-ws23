@@ -120,7 +120,10 @@ Free day or extra time for discussion (participants from DEU)
 - Jørgen Sethsen (?), Greenland Institute of Natural Resources, Greenland
 - Lars Heilmann (?), Greenland Institute of Natural Resources, Greenland
 - Louise Mølgaard (?), Greenland Institute of Natural Resources, Greenland
-- Signe Jeremiassen (?), Greenland Institute of Natural Resources, Greenland
+- Signe Jeremiassen (?), Greenland Institute of Natural Resources, Greenland (GN)
+
+- AnnDorte Burmeister, GN
+- Tanja Buch, GN
 
 
 and possibly joining remotely:
