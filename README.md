@@ -119,6 +119,7 @@ Free day or extra time for discussion (participants from DEU)
 - AnnDorte Burmeister, GN
 - Tanja Buch, GN
 - Anja Retzel, GN
+- Sofie Ruth Jeremiassen, GN
 - and more?
 
 
