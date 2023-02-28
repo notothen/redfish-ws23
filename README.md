@@ -47,8 +47,8 @@ Arrival in Nuuk (participants from DEU scheduled to arrive around noon - partici
 
 **08:00** Welcome and introduction
 
-- description of workshop background and goals
-- introduction round of all participants (short presentations?)
+- description of workshop background and goals (Henrik)
+- introduction round of all participants
 - practicalities: venue, working rooms, lunch, coffee, accommodation
 - preparations for practical session
 
@@ -90,6 +90,7 @@ Arrival in Nuuk (participants from DEU scheduled to arrive around noon - partici
 
 **13:00** Discussion about perspectives for redfish identification
 
+- short presentation by Kristján, Henrik and by someone from TI(?)
 - integration of survey data from Greenland, Iceland, Germany possible?
 - "best practices" for specimen identification?
 - next steps?
@@ -107,25 +108,20 @@ Free day or extra time for discussion (participants from DEU)
 
 ## Participants
 
-- Annika Elsheimer, Thünen Institute of Sea Fisheries, Germany
-- Christian Schulte, Thünen Institute of Sea Fisheries, Germany
-- Matthias Bernreuther, Thünen Institute of Sea Fisheries, Germany
-- Kristján Kristinsson, Marine and Freshwater Research Institute, Iceland
-- Sif Gudmundsdottir, Marine and Freshwater Research Institute, Iceland
-- Daniel Estévez-Barcia, Greenland Institute of Natural Resources, Greenland
-- Søren Post, Greenland Institute of Natural Resources, Greenland
-- Henrik Christiansen, Greenland Institute of Natural Resources, Greenland
-- Sofie Ruth Jeremiassen (?), Greenland Institute of Natural Resources, Greenland
-- Christina Joensen (?), Greenland Institute of Natural Resources, Greenland
-- Jørgen Sethsen (?), Greenland Institute of Natural Resources, Greenland
-- Lars Heilmann (?), Greenland Institute of Natural Resources, Greenland
-- Louise Mølgaard (?), Greenland Institute of Natural Resources, Greenland
-- Signe Jeremiassen (?), Greenland Institute of Natural Resources, Greenland (GN)
-
+- Annika Elsheimer, Thünen Institute of Sea Fisheries, Germany (TI)
+- Christian Schulte, TI
+- Matthias Bernreuther, TI
+- Kristján Kristinsson, Marine and Freshwater Research Institute, Iceland (MFRI)
+- Sif Gudmundsdottir, MFRI
+- Daniel Estévez-Barcia, Greenland Institute of Natural Resources, Greenland (GN)
+- Søren Post, GN
+- Henrik Christiansen, GN
 - AnnDorte Burmeister, GN
 - Tanja Buch, GN
+- Anja Retzel, GN
+- and more?
 
 
 and possibly joining remotely:
-- Karl-Michael Werner (?), Thünen Institute of Sea Fisheries, Germany
-- Julius Nielsen (?), Greenland Institute of Natural Resources, Greenland
+- Karl-Michael Werner (?), TI
+- Julius Nielsen (?), GN
