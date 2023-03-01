@@ -120,6 +120,7 @@ Free day or extra time for discussion (participants from DEU)
 - Tanja Buch, GN
 - Anja Retzel, GN
 - Sofie Ruth Jeremiassen, GN
+- Nanette Hammeken, GN
 - and more?
 
 
