@@ -64,7 +64,7 @@ Arrival in Nuuk (participants from DEU scheduled to arrive around noon - partici
 **13:00** Practical session II
 
 - continue with specimen identification
-- questionnaire (?) about characters used for specimen identification
+- questionnaire about characters used for specimen identification
 
 **16:00** End of practical session
 
@@ -90,7 +90,7 @@ Arrival in Nuuk (participants from DEU scheduled to arrive around noon - partici
 
 **13:00** Discussion about perspectives for redfish identification
 
-- short presentation by Kristján, Henrik and by someone from TI(?)
+- short presentations by Kristján & Matthias
 - integration of survey data from Greenland, Iceland, Germany possible?
 - "best practices" for specimen identification?
 - next steps?
@@ -122,7 +122,6 @@ Free day or extra time for discussion (participants from DEU)
 - Sofie Ruth Jeremiassen, GN
 - Nanette Hammeken, GN
 - and more?
-
 
 and possibly joining remotely:
 - Karl-Michael Werner (?), TI
