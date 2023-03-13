@@ -14,9 +14,9 @@ Greenland Institute of Natural Resources (GINR), Kivioq 2, 3900 Nuuk, Greenland.
 
 We will meet in three main localities:
 
-- the meeting room "Bjørnerum" or a meeting room in Pikialaarfik (TBC) for discussions and presentations
-- the fisheries laboratory/wet lab in Pikialaarfik (TBC) for practical work
-- the cafeteria (TBC) for coffee/lunch breaks
+- the meeting room "Konferencerum" for discussions and presentations
+- the wet labs in Pikialaarfik (black building) and in the main building for practical work
+- the cafeteria for coffee/lunch breaks
 
 ## Introduction and aim
 
