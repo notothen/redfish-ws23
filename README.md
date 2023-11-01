@@ -123,6 +123,6 @@ Free day or extra time for discussion (participants from DEU)
 - Nanette Hammeken, GN
 - and more?
 
-and possibly joining remotely:
-- Karl-Michael Werner (?), TI
-- Julius Nielsen (?), GN
+and joining remotely:
+- Karl-Michael Werner, TI
+- Julius Nielsen, GN
