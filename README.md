@@ -37,8 +37,6 @@ We will work with about 250 frozen redfish specimens from the 2022 survey season
 
 ## Program
 
-The program is still subject to change!
-
 ### Monday 13th March 2023
 
 Arrival in Nuuk (participants from DEU scheduled to arrive around noon - participants from ISL arrive earlier). Depending on the arrival timing we may start with some introductions & discussions in the afternoon.
