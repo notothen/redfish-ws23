@@ -96,13 +96,13 @@ Arrival in Nuuk (participants from DEU scheduled to arrive around noon - partici
 
 **16:00-18:00** End of workshop
 
-- joint dinner?
+- joint dinner
 
 ### Thursday 16th March
 
 Departure from Nuuk (participants from ISL)
 /
-Free day or extra time for discussion (participants from DEU)
+Free day/fishing trip and extra time for discussion (participants from DEU)
 
 ## Participants
 
@@ -114,12 +114,13 @@ Free day or extra time for discussion (participants from DEU)
 - Daniel Estévez-Barcia, Greenland Institute of Natural Resources, Greenland (GN)
 - Søren Post, GN
 - Henrik Christiansen, GN
-- AnnDorte Burmeister, GN
 - Tanja Buch, GN
 - Anja Retzel, GN
+- Rasmus Nygaard, GN
 - Sofie Ruth Jeremiassen, GN
-- Nanette Hammeken, GN
-- and more?
+- Alvide R. Oksen, GN
+- Malthe Olesen, GN
+- Christoffer Koch, GN
 
 and joining remotely:
 - Karl-Michael Werner, TI
