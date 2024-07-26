@@ -114,12 +114,13 @@ Free day or extra time for discussion (participants from DEU)
 - Daniel Estévez-Barcia, Greenland Institute of Natural Resources, Greenland (GN)
 - Søren Post, GN
 - Henrik Christiansen, GN
-- AnnDorte Burmeister, GN
 - Tanja Buch, GN
 - Anja Retzel, GN
+- Rasmus Nygaard, GN
 - Sofie Ruth Jeremiassen, GN
-- Nanette Hammeken, GN
-- and more?
+- Alvide R. Oksen, GN
+- Malthe Olesen, GN
+- Christoffer Koch, GN
 
 and joining remotely:
 - Karl-Michael Werner, TI
